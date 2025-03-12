@@ -1,5 +1,5 @@
-# FullStack-Udemy-Bootcamp
-Fullstack Bootcamp Journey
+
+# Fullstack Bootcamp Journey
 Welcome to my repository! This space is dedicated to tracking my progress as I dive into the exciting world of fullstack web development through a Udemy Fullstack Bootcamp. Here, you'll find my projects, exercises, and notes as I learn and grow as a developer.
 
 About This Repository
